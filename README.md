@@ -13,7 +13,7 @@ _This is a website to find if Queen can attack another figure._
 | :-------------     | :------------- | :------------- |
 | **Program is checking if Queen can attack figure horizontally or vertically** | User input: 2,4 and 2,7 | Output: true |
 | **Program is checking if Queen can attack figure diagonally** | User input: 2,4 and 3,5 | Output: true |
-| **Program is checking if Queen can not attack figure ** | User input: 2,4 and 7,1 | Output: false |
+| **Program is checking if Queen can not attack figure** | User input: 2,4 and 7,1 | Output: false |
 
 
 
