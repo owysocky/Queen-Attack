@@ -2,7 +2,7 @@
 
 #### _Queen Attack 2/11/2019_
 
-#### By _**Pavel Zanchuk**_
+#### By _**Olha Wysocky**_
 
 ## Description
 
@@ -31,4 +31,4 @@ _This is a website to find if Queen can attack another figure._
 MIT
 **
 
-Copyright (c) 2019 **_Pavel Zanchuk_**
+Copyright (c) 2019 **_Olha Wysocky_**
